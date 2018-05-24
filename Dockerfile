@@ -1,4 +1,4 @@
-FROM jenkinsci/jnlp-slave
+FROM jenkins/jnlp-slave
 
 MAINTAINER Manuel Valentino <brisma@gmail.com>
 
